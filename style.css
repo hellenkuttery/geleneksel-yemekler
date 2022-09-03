@@ -28,3 +28,14 @@ li {
     content:"💖";
     font-size: 35px;
 } */
+
+.baslik{
+    background-color:brown;
+    font-family: 'Oswald', sans-serif;
+  
+}
+
+img{
+    height: 600px;
+    width: 100%;
+}
